@@ -29,7 +29,7 @@ st.write("- Interpret the results of the analysis")
 #Video Formating
 st.markdown("<h1 style='text-align: Left; font-size: 25px;'>Watch This Video!</h1>", unsafe_allow_html=True)
 
-st.video("https://d3c33hcgiwev3.cloudfront.net/P4NGP0EMSaqDRj9BDDmqtA.processed/full/360p/index.webm?Expires=1691107200&Signature=fv~Ni~Ie-5V5LdwsveMJrxrgadfKIyWzUMYbTirj5TV0GqxdOXxyA5510NiEQm0sXenkzsk6oKpyQ4bkUxdenZO5wznAYHrKiN29EnK~CH7qN6jjvG8eqAHMUTfcQaoB0ul2qNZgpFyyNR-uJgvdxs9RfZqyMAsaR~tn9rPnWYY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A")
+st.video("index.webm")
 
 
 
